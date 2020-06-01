@@ -1,0 +1,1 @@
+This is for a school assignment about OSS. Given the topic I thought it would be interesting to open source the essay.
